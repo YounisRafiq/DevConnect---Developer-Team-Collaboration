@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Team Collaboration" , "Giti" , "Full Stack Project" , "DevConnect"],
+  "author": "Younis Ali",
+  "license": "ISC",
+  "description": "This is a full stack project for developers so that the developer connect each other by posting their post and send friend request like in facebook."
+}
